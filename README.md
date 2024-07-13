@@ -1,1 +1,1 @@
-# test-smart-contract
+# This contract code to test PAAS marlowe compiler
